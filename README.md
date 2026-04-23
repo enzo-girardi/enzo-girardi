@@ -1,17 +1,17 @@
-# ¡Hola! Soy Enzo 👋
+# Hi there, I'm Enzo! 👋
 
-### Systems Student | Computer Technician | Full Stack Developer en formación
+### Systems Student | Computer Technician | Aspiring Full Stack Developer
 
-Soy un apasionado por la tecnología con una base sólida en soporte técnico y un enfoque creciente en el desarrollo de software. Mi objetivo es transformar problemas complejos en soluciones digitales eficientes y escalables.
+I am a technology enthusiast with a solid background in technical support and a growing focus on software development. My goal is to transform complex problems into efficient and scalable digital solutions.
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-- 🎓 **Formación:** Estudiante de Sistemas y Técnico en Computación.
-- 💡 **Enfoque:** Especializado en el desarrollo de aplicaciones que optimizan procesos de negocio y mejoran la experiencia del usuario.
-- 🛠️ **Experiencia Técnica:** Amplio conocimiento en hardware, redes y mantenimiento de sistemas, lo que me da una visión integral a la hora de programar.
-- 📍 **Ubicación:** Corrientes, Argentina.
+- 🎓 **Education:** Systems Engineering Student & Computer Technician.
+- 💡 **Focus:** Specialized in developing applications that optimize business processes and enhance user experience.
+- 🛠️ **Technical Background:** Extensive knowledge in hardware, networking, and system maintenance, providing a holistic perspective when coding.
+- 📍 **Location:** Corrientes, Argentina.
 
 ---
 
@@ -28,40 +28,40 @@ Soy un apasionado por la tecnología con una base sólida en soporte técnico y 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 💻 Sistemas y Herramientas
+### 💻 Systems & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Hardware](https://img.shields.io/badge/Tech_Support-Hardware_Expert-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🌟 Proyecto Destacado
+## 🌟 Featured Project
 
-### 🪵 Plataforma Web: Industria del Algarrobo
-**Desafío:** Digitalizar la presencia y gestión de una empresa líder en el sector maderero que operaba con procesos manuales.
+### 🪵 Web Platform: Carob Wood Industry (Algarrobo)
+**Challenge:** Digitalizing the presence and management of a leading company in the timber sector that previously operated with manual processes.
 
-- **Solución:** Desarrollo de una web profesional con catálogo interactivo y sistema de gestión de stock.
-- **Impacto:** Optimización en la visualización de productos y canal directo de preventa digital.
-- **Tecnologías:** [Mencionar aquí, ej: React, Node.js, MySQL]
+- **Solution:** Development of a professional web platform with an interactive catalog and inventory management system.
+- **Impact:** Optimized product visualization and established a direct digital pre-sales channel.
+- **Tech Stack:** [Add your tools here, e.g., React, Node.js, MySQL]
 
-🔗 [Ver Repositorio](enlace-a-tu-repo) | [Ver Demo en Vivo](enlace-a-la-web)
+🔗 [View Repository](link-to-your-repo) | [Live Demo](link-to-the-web)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_ACA&show_icons=true&theme=tokyonight" alt="Enzo's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_ACA&layout=compact&theme=tokyonight" alt="Most Used Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enzo-girardi&show_icons=true&theme=tokyonight" alt="Enzo's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-girardi&layout=compact&theme=tokyonight" alt="Most Used Languages" height="150" />
 </p>
 
 ---
 
-## 📩 Contacto
+## 📩 Contact Me
 
-¡Siempre estoy abierto a colaborar en proyectos interesantes o charlar sobre tecnología!
+I'm always open to collaborating on interesting projects or chatting about technology!
 
-- **Email:** [tu-email@profesional.com](mailto:enzogirardi60@gmail.com)
-- **Portfolio:** [Enlace a tu web si ya la tenés]
+- **Email:** [enzogirardi60@gmail.com](mailto:enzogirardi60@gmail.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
