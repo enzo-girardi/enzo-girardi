@@ -62,6 +62,5 @@ I am a technology enthusiast with a solid background in technical support and a 
 I'm always open to collaborating on interesting projects or chatting about technology!
 
 - **Email:** [enzogirardi60@gmail.com](mailto:enzogirardi60@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
